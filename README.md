@@ -1,2 +1,2 @@
 # Leetcode
-摘自Leetcode算法联系题！
+摘自Leetcode经典算法联系题！
